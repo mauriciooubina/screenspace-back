@@ -16,3 +16,12 @@ You can view the api documentation in swagger-ui by pointing to
 http://localhost:8080/  
 
 Change default port value in application.properties
+
+## Integrantes
+Mauricio Nicolás Oubiña        LU: 1130495
+
+Taher Ibrahim                  LU:
+
+Jimena Milagros Jakel          LU:
+
+Augusto Ariel Mancuello        LU:
