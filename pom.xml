@@ -17,7 +17,7 @@
         <version>2.1.16.RELEASE</version>
     </parent>
     <build>
-        <sourceDirectory>src/main/java</sourceDirectory>
+        <sourceDirectory>src/main/java/com/example/screenspace</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
