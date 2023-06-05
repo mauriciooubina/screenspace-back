@@ -5,6 +5,6 @@ COPY pom.xml /home/app
 RUN mvn -f /home/app/pom.xml -DskipTests=true clean package
 RUN ls -ltra /home/app/target/
 ## Package stage##
-FROM openjdk-18:latest 
+FROM openjdk:18-alpine
 COPY --from=build /home/app/target/swagger*.jar /usr/local/lib/swaggerapp.jar
 ENTRYPOINT ["java","-jar","/usr/local/lib/swaggerapp.jar"]
