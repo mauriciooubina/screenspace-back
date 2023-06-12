@@ -1,0 +1,75 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Rápido y Furioso 1",
+        "gender": "Acción",
+        "synopsis": "Un grupo de corredores ilegales se involucra en una serie de robos de equipos electrónicos mientras son perseguidos por un policía encubierto.",
+        "rating": 6.8
+      },
+      {
+        "id": 2,
+        "title": "Matrix",
+        "gender": "Acción",
+        "synopsis": "Un programador de computadoras descubre que el mundo en el que vive es una simulación creada por máquinas y se une a un grupo de rebeldes para luchar contra ellas y liberar a la humanidad.",
+        "rating": 8.7
+      },
+      {
+        "id": 3,
+        "title": "Titanic",
+        "gender": "Drama",
+        "synopsis": "La historia de amor entre Rose, una joven de alta sociedad, y Jack, un artista pobre, que se encuentran a bordo del Titanic, el barco de pasajeros más grande del mundo, durante su fatídico viaje inaugural.",
+        "rating": 7.8
+      },
+      {
+        "id": 4,
+        "title": "Los Increíbles 2",
+        "gender": "Animación",
+        "synopsis": "La familia de superhéroes Parr se enfrenta a una nueva amenaza mientras intentan equilibrar sus vidas como superhéroes y como una familia normal.",
+        "rating": 7.6
+      },
+      {
+        "id": 5,
+        "title": "El Conjuro",
+        "gender": "Horror",
+        "synopsis": "Un matrimonio de investigadores paranormales se enfrenta a su caso más aterrador cuando se mudan a una casa embrujada y son acechados por fuerzas malignas.",
+        "rating": 7.5
+      },
+      {
+        "id": 6,
+        "title": "Mi Pobre Angelito",
+        "gender": "Comedia",
+        "synopsis": "Un niño de 8 años es olvidado accidentalmente por su familia y debe defender su hogar de dos ladrones torpes que intentan robarlo.",
+        "rating": 7.6
+      },
+      {
+        "id": 7,
+        "title": "300",
+        "gender": "Acción",
+        "synopsis": "El Rey Leónidas y sus 300 guerreros espartanos luchan contra el ejército persa en la Batalla de las Termópilas en un intento de detener la invasión del Imperio Persa.",
+        "rating": 7.6
+      },
+      {
+        "id": 8,
+        "title": "Rescatando al Soldado Ryan",
+        "gender": "Acción",
+        "synopsis": "Durante la Segunda Guerra Mundial, un grupo de soldados es enviado detrás de las líneas enemigas para rescatar al soldado James Ryan, cuyos hermanos han muerto en combate.",
+        "rating": 8.6
+      },
+      {
+        "id": 9,
+        "title": "Francotirador",
+        "gender": "Acción",
+        "synopsis": "La historia real de Chris Kyle, un francotirador del ejército de Estados Unidos, considerado el más letal de la historia, y su lucha por la supervivencia en el campo de batalla y su vida familiar en casa.",
+        "rating": 7.3
+      },
+      {
+        "id": 10,
+        "title": "Spider-Man",
+        "gender": "Ciencia ficción",
+        "synopsis": "Peter Parker, un estudiante de secundaria, adquiere habilidades especiales después de ser mordido por una araña radiactiva y se convierte en Spider-Man, el héroe que protege a la ciudad de Nueva York de los villanos.",
+        "rating": 7.3
+      }
+    ]
+  }
+  
